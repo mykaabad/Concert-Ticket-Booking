@@ -1,0 +1,6 @@
+C:\Users\ADMIN\Documents\SharpDevelop Projects\concertBooking\TicketBooking\obj\Debug\TicketBooking.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\SharpDevelop Projects\concertBooking\TicketBooking\bin\Debug\TicketBooking.dll.config
+C:\Users\ADMIN\Documents\SharpDevelop Projects\concertBooking\TicketBooking\bin\Debug\TicketBooking.dll
+C:\Users\ADMIN\Documents\SharpDevelop Projects\concertBooking\TicketBooking\bin\Debug\TicketBooking.pdb
+C:\Users\ADMIN\Documents\SharpDevelop Projects\concertBooking\TicketBooking\obj\Debug\TicketBooking.dll
+C:\Users\ADMIN\Documents\SharpDevelop Projects\concertBooking\TicketBooking\obj\Debug\TicketBooking.pdb

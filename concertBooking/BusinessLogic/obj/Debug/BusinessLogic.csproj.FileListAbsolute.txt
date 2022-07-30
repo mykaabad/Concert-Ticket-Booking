@@ -1,0 +1,10 @@
+C:\Users\ADMIN\Documents\SharpDevelop Projects\concertBooking\BusinessLogic\bin\Debug\BusinessLogic.exe.config
+C:\Users\ADMIN\Documents\SharpDevelop Projects\concertBooking\BusinessLogic\bin\Debug\BusinessLogic.exe
+C:\Users\ADMIN\Documents\SharpDevelop Projects\concertBooking\BusinessLogic\bin\Debug\BusinessLogic.pdb
+C:\Users\ADMIN\Documents\SharpDevelop Projects\concertBooking\BusinessLogic\bin\Debug\DataLayer.dll
+C:\Users\ADMIN\Documents\SharpDevelop Projects\concertBooking\BusinessLogic\bin\Debug\TicketBooking.dll
+C:\Users\ADMIN\Documents\SharpDevelop Projects\concertBooking\BusinessLogic\bin\Debug\DataLayer.pdb
+C:\Users\ADMIN\Documents\SharpDevelop Projects\concertBooking\BusinessLogic\bin\Debug\TicketBooking.pdb
+C:\Users\ADMIN\Documents\SharpDevelop Projects\concertBooking\BusinessLogic\obj\Debug\BusinessLogic.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\SharpDevelop Projects\concertBooking\BusinessLogic\obj\Debug\BusinessLogic.exe
+C:\Users\ADMIN\Documents\SharpDevelop Projects\concertBooking\BusinessLogic\obj\Debug\BusinessLogic.pdb

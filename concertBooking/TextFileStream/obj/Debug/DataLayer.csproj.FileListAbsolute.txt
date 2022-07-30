@@ -1,0 +1,6 @@
+C:\Users\ADMIN\Documents\SharpDevelop Projects\concertBooking\TextFileStream\obj\Debug\DataLayer.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Documents\SharpDevelop Projects\concertBooking\TextFileStream\bin\Debug\DataLayer.dll.config
+C:\Users\ADMIN\Documents\SharpDevelop Projects\concertBooking\TextFileStream\bin\Debug\DataLayer.dll
+C:\Users\ADMIN\Documents\SharpDevelop Projects\concertBooking\TextFileStream\bin\Debug\DataLayer.pdb
+C:\Users\ADMIN\Documents\SharpDevelop Projects\concertBooking\TextFileStream\obj\Debug\DataLayer.dll
+C:\Users\ADMIN\Documents\SharpDevelop Projects\concertBooking\TextFileStream\obj\Debug\DataLayer.pdb
